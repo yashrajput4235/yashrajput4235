@@ -96,9 +96,11 @@
 
 ## 🏆 Achievements & Highlights
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashrajput4235&theme=darkhub&row=1&column=7" />
-</p>
+- ⭐ Active open-source contributor  
+- 🔐 Built secure authentication systems (JWT, OAuth, OTP)  
+- 🧠 Strong DSA & problem-solving skills  
+- 🏆 Hackathon & project experience  
+- 🚀 Consistent GitHub activity
 
 ---
 
